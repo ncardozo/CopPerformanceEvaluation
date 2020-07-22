@@ -1,0 +1,4 @@
+Heap exhausted error from:
+ifs 10000 on
+strategy 25000 on
+contexts 3312

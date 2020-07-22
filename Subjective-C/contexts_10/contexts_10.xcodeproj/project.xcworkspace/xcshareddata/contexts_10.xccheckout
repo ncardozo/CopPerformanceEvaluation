@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2C363195-0006-4EB8-A788-4610066AC09F</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>3e8b5386-6d7b-44ca-a07c-b46addfc9fb4++8968</key>
+		<string>https://nicolas.cardozo@scm.info.ucl.ac.be/svn/released/code/context_Mac/trunk</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>3e8b5386-6d7b-44ca-a07c-b46addfc9fb4++8968</key>
+		<string>context_Mac/</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>3e8b5386-6d7b-44ca-a07c-b46addfc9fb4++8968</key>
+		<string>https://nicolas.cardozo@scm.info.ucl.ac.be/svn/released</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://nicolas.cardozo@scm.info.ucl.ac.be/svn/released/code/context_Mac/trunk</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>3e8b5386-6d7b-44ca-a07c-b46addfc9fb4++8968</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>3e8b5386-6d7b-44ca-a07c-b46addfc9fb4++8968</string>
+			<key>IDESourceControlWCCName</key>
+			<string>context_Mac</string>
+		</dict>
+	</array>
+</dict>
+</plist>

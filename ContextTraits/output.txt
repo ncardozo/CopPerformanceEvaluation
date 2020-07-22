@@ -1,0 +1,10 @@
+ifs_js
+
+after 5000
+I get the error:
+	module.js:439
+	  var compiledWrapper = runInThisContext(wrapper, filename, true);
+	                        ^
+	RangeError: Maximum call stack size exceeded
+	
+and none of the tests are run afterwards

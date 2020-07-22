@@ -1,0 +1,8 @@
+Compilation of ifs, error from 25000 on
+clang: error: unable to execute command: Segmentation fault: 11
+clang: error: clang frontend command failed due to signal (use -v to see invocation)
+Apple LLVM version 5.1 (clang-503.0.40) (based on LLVM 3.4svn)
+Target: x86_64-apple-darwin13.2.0
+Thread model: posix
+clang: note: diagnostic msg: PLEASE submit a bug report to http://developer.apple.com/bugreporter/ and include the crash backtrace, preprocessed source, and associated run script.
+clang: note: diagnostic msg:
