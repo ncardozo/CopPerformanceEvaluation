@@ -9,7 +9,9 @@ This repo contains the data for the performance evaluation of Context-oriented p
 
 ## Structure
 
-The repo is structured by COP language. For each langauge we add an independent source code file for each appraoch (`if`, `strategy`, `context`) and each of the context sizes [10, 50000]. Additionally, for each strategy we have an execution folder `runs_*` that contains the results of the 10 iterations executed in the for each of the context sizes
+The repo is structured by COP language. For each langauge we add an independent source code file for each appraoch (`if`, `strategy`, `context`) and each of the context sizes [10, 50000]. Additionally, for each strategy we have an execution folder `runs_*` that contains the results of the 10 iterations executed in the for each of the context sizes.
+
+The folder for each of the languages contains a description of the obtained results.
 
 ### CVS files
 
